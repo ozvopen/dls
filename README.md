@@ -1,2 +1,2 @@
-# libostack
-an ostack library implementation
+# dls
+an ostack codeparts utilization implementation
